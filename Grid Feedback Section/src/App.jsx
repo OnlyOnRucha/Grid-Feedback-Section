@@ -2,7 +2,7 @@ import Grid from "./components/Grid";
 
 function App() {
   return (
-    <div >
+    <div>
       <Grid />
     </div>
   );
