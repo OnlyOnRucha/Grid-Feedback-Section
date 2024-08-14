@@ -11,7 +11,7 @@ const Grid = () => {
       <div className="min-h-[600px] grid grid-cols-4 grid-rows-2 gap-5 m-10">
         
         
-        <div className="p-4 px-8 pt-5 bg-[#6EACDA] col-span-2  rounded-xl flex gap-2  shadow-lg"> <div>
+        <div className="p-4 px-8 pt-5 bg-[#6EACDA] col-span-2  rounded-xl flex gap-2 hover:scale-105 transition duration-500 shadow-lg"> <div>
           <div className="flex gap-2">
             <img src={img1} alt="" className="w-12 h-12 rounded-full"/>
             <div className=" mb-2 ml-2 flex flex-col">
